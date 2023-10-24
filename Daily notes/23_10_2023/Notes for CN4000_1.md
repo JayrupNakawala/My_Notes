@@ -1,10 +1,41 @@
-There are 6 benefits of IS
-  Cost reduction
-  Capability
-  Communication
-  Customer service
-  Control
-  Competitive advantage
+
+## **Initiation and Feasibility**
+
+### *Initiation*
+- First phase of an IS Development Project.
+- Establish whether the project is feasible
+- prepare to ensure that the project is sucessful
+
+### *Feasibility*
+- The activity at the start of the project to see if the project is a viable business proposition.
+- The feasibility report analyses the need for and impact of the system
+- Considers differnt alternatives
+
+![Sequence of main activities](Screenshot_from_2023-10-24_12-54-28.png)
+
+### *Initiation Activites 1*
+|Activity|Purpose|
+|----|----|
+|Access Feasibilty|- performing cost-benifit analysis 
+| |- Considering non-monetory considerations such as the effect new system will have on staff
+| |- Comparision of different alternatives
+|Define business Objectives and outline system requirements|- defining Critical Success Factors (CSF) that must be achived by incorporation of particular features|
+|Evaluate acquisition alternatives|- evaluates ascepts such as cost, sustainibility, performance of systems from different suppliers, may be either bespoke or of-the-shelf
+|Define scope|- specifying system boundries defining which parts of the organisation will be affected
+|Define responsibilities|- responsibilities of the system developers should be specified
+| |- setting aside time for input from managers and users of the system
+|Assess risk|- Identify potential problems and what precautions should be taken
+|Identify constraints and develop project plan| - use planning and estimating to develop a project plan allowing us to preview project size and complexity to establish a preliminary budget and timescale.
+
+
+
+### *There are 6 benefits of IS*
+- Cost reduction
+- Capability
+- Communication
+- Customer service
+- Control
+- Competitive advantage
  
 Feasibility type 1
   Organizational feasibility
