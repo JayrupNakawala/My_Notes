@@ -36,11 +36,13 @@
 - Customer service
 - Control
 - Competitive advantage
- 
-Feasibility type 1
-  Organizational feasibility
+
+### *The Feasibility Study*
+#### - Organizational feasibility
+It reviews how well 
+
 Feasibility type 2
-   Economic feasibility
+   Economic <ins>feasibility</ins>
   
 Cost and benifits 
   Tangible cost, intangible costs, tangible benifits, intangible benifits
