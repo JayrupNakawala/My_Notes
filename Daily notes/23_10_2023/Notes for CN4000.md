@@ -31,7 +31,7 @@
 
 ### *There are 6 benefits of IS*
 - Cost reduction
-- Capability
+- Capability 
 - Communication
 - Customer service
 - Control
