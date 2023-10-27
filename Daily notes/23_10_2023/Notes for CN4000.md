@@ -1,5 +1,5 @@
 
-## **Initiation and Feasibility**
+> ## **Initiation and Feasibility**
 
 ### *Initiation*
 - First phase of an IS Development Project.
@@ -39,11 +39,31 @@
 
 ### *The Feasibility Study*
 #### - Organizational feasibility
-It reviews how well 
+It reviews how well the solution meets the need of the business and anticipates problems. AKA Considers the effect of the change, given a company's culture and politics.
 
-Feasibility type 2
-   Economic <ins>feasibility</ins>
-  
+<ins>Questions answered</ins>
+Will the system meet the business’ needs and help
+improve its performance?
+
+<ins>Techniques used to control</ins>
+Critical success factors and key performance indicators.
+Change management.
+
+
+#### - Economic feasibility
+An assessment of the costs and benefits of different solutions to select which gives the best value.
+
+<ins>Questions answered</ins>
+Will the new system cost more than the expected benefits?
+Will the costs outweigh the benefits?
+
+<ins>Techniques used to control</ins>
+Cost/benefit analysis. 
+Return-on-investment and payback calculations.
+
+- [x] to be continued
+
+
 Cost and benifits 
   Tangible cost, intangible costs, tangible benifits, intangible benifits
 
