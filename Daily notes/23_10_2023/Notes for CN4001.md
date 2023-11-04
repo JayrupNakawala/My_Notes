@@ -1,5 +1,6 @@
 20231023Notes for CN4001.md
 
+
 Topic 4
 *Aims*
 To look at the use of if and else statements
